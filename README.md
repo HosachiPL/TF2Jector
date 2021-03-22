@@ -1,2 +1,3 @@
 # TF2Jector
-Simple tf2 injector
+Simple injector for Team Fortress 2 which is made with little tutorial help
+You are NOT allowed to sell it.
